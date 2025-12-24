@@ -41,7 +41,7 @@ async function buildAll() {
   console.log("building server...");
 
   console.log("copying attached_assets...");
-  await cp("attached_assets", "dist/attached_assets", { recursive: true });
+  await cp("attached_assets/Aditya_Jain_Resume.pdf", "dist/attached_assets/Aditya_Jain_Resume.pdf", { recursive: true });
 
   const pkg = JSON.parse(await readFile("package.json", "utf-8"));
   const allDeps = [
