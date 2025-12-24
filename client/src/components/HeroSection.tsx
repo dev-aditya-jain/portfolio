@@ -19,7 +19,7 @@ export default function HeroSection({
   email = "adityaj518@gmail.com",
   phone = "+91-9808321655",
   linkedInUrl = "https://www.linkedin.com/in/aditya-jain-9808321655/",
-  resumeUrl = "/attached_assets/Aditya_Jain_Resume.pdf",
+  resumeUrl = "/attached_assets/generated_images/Aditya_Jain_Resume.pdf",
 }: HeroSectionProps) {
   return (
     <section id="hero" className="min-h-screen flex items-center pt-16 relative overflow-hidden">
