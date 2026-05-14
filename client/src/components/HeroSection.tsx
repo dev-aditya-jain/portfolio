@@ -58,9 +58,7 @@ export default function HeroSection({
               {title}
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-6 max-w-2xl">
-              Specializing in cloud-native platforms with hands-on experience in Kubernetes, 
-              OpenShift, Helm-based deployments, and Infrastructure as Code using Terraform. 
-              Building resilient, cost-efficient, and high-performing systems.
+                DevOps Engineer with 6+ years of experience in designing, building, and operating cloud-native platforms across AWS and Azure. Proven track record of owning Kubernetes and OpenShift-based infrastructure, Infrastructure as Code, and CI/CD automation with measurable impact on cost optimization, reliability, and delivery velocity. Brings a strong backend development foundation (.NET, Web APIs, microservices), enabling end-to-end system ownership from application design to production-grade infrastructure and observability.
             </p>
 
             <div className="flex items-center justify-center lg:justify-start gap-4 mb-8">
